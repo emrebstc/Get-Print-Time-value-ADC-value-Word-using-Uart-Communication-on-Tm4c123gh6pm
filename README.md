@@ -1,0 +1,1 @@
+# Get-Print-Time-value-ADC-value-Word-using-Uart-Communication-on-Tm4c123gh6pm
