@@ -2,4 +2,4 @@ Tm4c123gh6pm reads the ADC data coming from the internal temperature sensor and 
 
 For Uart communication, a windows application was written in C# in SharpDevelop and given as a project in a rar file.
 
-For LCD connections, the visual in the "Initialize-Configure-LCD-using-API-codes-on-Tm4c123gh6pm" named project may be helpful.
+For LCD connections, the visual in the "Initialize-Configure-LCD-using-nonAPI-codes-on-Tm4c123gh6pm" named project may be helpful.
